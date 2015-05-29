@@ -1,6 +1,6 @@
-# DojoAngular
-Repositorio del Dojo de Angular js </br>
+# Felipeco
+Dojo de Angular js </br>
 
-Yefry Alexis Calderón Yepes </br>
+Felipe Correa Gonzalez </br>
 
-Desarrollo de Aplicaciones Empresariales
+App Empresariales
